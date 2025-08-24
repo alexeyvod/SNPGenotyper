@@ -12,6 +12,7 @@
 - [Трактовка результатов](#трактовка-результатов)
 - [Запуск в консольном режиме](#запуск-в-консольном-режиме)
 - [Обратная связь](#обратная-связь)
+- [Описание генетических линий](#описание-генетических-линий)
 
 ## Алгоритм
 
@@ -26,20 +27,6 @@
 - **Vibrio cholerae** (токсигенные и нетоксигенные штаммы)
 - **Francisella tularensis subsp. mediasiatica**
 - **Francisella tularensis subsp. holarctica**
-
-Для токсигенных (ctxB+) штаммов *Vibrio cholerae* седьмой пандемии выделено 78 различных генетических линий на основе сравнительного филогенетического анализа.
-<a href="img/Tree_Vch_CTX.jpg" target="_blank">
-  <img src="img/Tree_Vch_CTX.jpg" width="300"/>
-</a>
-
-Для нетоксигенных (ctxB-) штаммов *Vibrio cholerae* выделено 115 различных генетических линий на основе сравнительного филогенетического анализа.
-![Генетические линии нетоксигенных штаммов](img/Tree_Vch.jpg)
-
-Для штаммов *Francisella tularensis subsp. holarctica* выделено 76 различных генетических линий на основе сравнительного филогенетического анализа.
-![Генетические линии нетоксигенных штаммов](img/Tree_F.tul.hol.jpg)
-
-Для штаммов *Francisella tularensis subsp. mediasiatica* выделено 11 различных генетических линий на основе сравнительного филогенетического анализа.
-![Генетические линии нетоксигенных штаммов](img/Tree_F.tul.med.jpg)
 
 ## Запуск
 
@@ -131,3 +118,44 @@ java -jar SNPGenotype.jar -i <genome.fasta> -r <result file>
 
 **Область применения:**  
 Методические рекомендации предназначены для специалистов, занимающихся молекулярно-генетическим анализом штаммов холерного вибриона и франциселл туляремии.
+
+## Описание генетических линий
+
+### Vibrio cholerae ctxB+
+
+Для токсигенных (ctxB+) штаммов *Vibrio cholerae* седьмой пандемии выделено 78 различных генетических линий на основе сравнительного филогенетического анализа.
+
+<div align="left">
+<a href="img/Tree_Vch_CTX.jpg" target="_blank">
+  <img src="img/Tree_Vch_CTX.jpg" width="300"/>
+</a>
+</div>
+
+### Vibrio cholerae ctxB-
+
+Для нетоксигенных (ctxB-) штаммов *Vibrio cholerae* выделено 115 различных генетических линий на основе сравнительного филогенетического анализа.
+
+<div align="left">
+<a href="img/Tree_Vch.jpg" target="_blank">
+  <img src="img/Tree_Vch.jpg" width="300"/>
+</a>
+</div>
+
+### Francisella tularensis subsp. holarctica
+
+Для штаммов *Francisella tularensis subsp. holarctica* выделено 76 различных генетических линий на основе сравнительного филогенетического анализа.
+
+<div align="left">
+<a href="img/Tree_F.tul.hol.jpg" target="_blank">
+  <img src="img/Tree_F.tul.hol.jpg" width="300"/>
+</a>
+</div>
+
+### Francisella tularensis subsp. mediasiatica
+
+Для штаммов *Francisella tularensis subsp. mediasiatica* выделено 11 различных генетических линий на основе сравнительного филогенетического анализа.
+<div align="left">
+<a href="img/Tree_F.tul.med.jpg" target="_blank">
+  <img src="img/Tree_F.tul.med.jpg" width="300"/>
+</a>
+</div>
