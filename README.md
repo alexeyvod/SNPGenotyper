@@ -120,13 +120,13 @@ java -jar SNPGenotype.jar -i <genome.fasta> -r <result file>
 ФКУЗ Ростовский-на-Дону противочумный институт Роспотребнадзора
 
 **Область применения:**  
-Методические рекомендации предназначены для специалистов, занимающихся молекулярно-генетическим анализом штаммов холерного вибриона и франциселл туляремии.
+Методические рекомендации предназначены для специалистов, занимающихся молекулярно-генетическим анализом штаммов холерного вибриона и туляремийного микроба.
 
 ## Описание генетических линий
 
 ### Vibrio cholerae ctxB+
 
-Для токсигенных (ctxB+) штаммов *Vibrio cholerae* седьмой пандемии выделено 78 различных генетических линий на основе сравнительного филогенетического анализа.
+Для токсигенных (ctxB+) штаммов *Vibrio cholerae* седьмой пандемии выделено 78 генетических линий на основе сравнительного филогенетического анализа.
 
 <div align="left">
 <a href="img/Tree_Vch_CTX.jpg" target="_blank">
@@ -136,7 +136,7 @@ java -jar SNPGenotype.jar -i <genome.fasta> -r <result file>
 
 ### Vibrio cholerae ctxB-
 
-Для нетоксигенных (ctxB-) штаммов *Vibrio cholerae* выделено 115 различных генетических линий на основе сравнительного филогенетического анализа.
+Для нетоксигенных (ctxB-) штаммов *Vibrio cholerae* выделено 115 генетических линий на основе сравнительного филогенетического анализа.
 
 <div align="left">
 <a href="img/Tree_Vch.jpg" target="_blank">
@@ -146,7 +146,7 @@ java -jar SNPGenotype.jar -i <genome.fasta> -r <result file>
 
 ### Francisella tularensis subsp. holarctica
 
-Для штаммов *Francisella tularensis subsp. holarctica* выделено 76 различных генетических линий на основе сравнительного филогенетического анализа.
+Для штаммов *Francisella tularensis subsp. holarctica* выделено 76 генетических линий на основе сравнительного филогенетического анализа.
 
 <div align="left">
 <a href="img/Tree_F.tul.hol.jpg" target="_blank">
@@ -156,7 +156,7 @@ java -jar SNPGenotype.jar -i <genome.fasta> -r <result file>
 
 ### Francisella tularensis subsp. mediasiatica
 
-Для штаммов *Francisella tularensis subsp. mediasiatica* выделено 11 различных генетических линий на основе сравнительного филогенетического анализа.
+Для штаммов *Francisella tularensis subsp. mediasiatica* выделено 11 генетических линий на основе сравнительного филогенетического анализа.
 <div align="left">
 <a href="img/Tree_F.tul.med.jpg" target="_blank">
   <img src="img/Tree_F.tul.med_thumb.jpg" width="300"/>
