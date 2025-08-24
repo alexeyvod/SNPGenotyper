@@ -127,7 +127,7 @@ java -jar SNPGenotype.jar -i <genome.fasta> -r <result file>
 
 <div align="left">
 <a href="img/Tree_Vch_CTX.jpg" target="_blank">
-  <img src="img/Tree_Vch_CTX.jpg" width="300"/>
+  <img src="img/Tree_Vch_CTX_thumb.jpg" width="300"/>
 </a>
 </div>
 
@@ -137,7 +137,7 @@ java -jar SNPGenotype.jar -i <genome.fasta> -r <result file>
 
 <div align="left">
 <a href="img/Tree_Vch.jpg" target="_blank">
-  <img src="img/Tree_Vch.jpg" width="300"/>
+  <img src="img/Tree_Vch_thumb.jpg" width="300"/>
 </a>
 </div>
 
@@ -147,7 +147,7 @@ java -jar SNPGenotype.jar -i <genome.fasta> -r <result file>
 
 <div align="left">
 <a href="img/Tree_F.tul.hol.jpg" target="_blank">
-  <img src="img/Tree_F.tul.hol.jpg" width="300"/>
+  <img src="img/Tree_F.tul.hol_thumb.jpg" width="300"/>
 </a>
 </div>
 
@@ -156,6 +156,6 @@ java -jar SNPGenotype.jar -i <genome.fasta> -r <result file>
 Для штаммов *Francisella tularensis subsp. mediasiatica* выделено 11 различных генетических линий на основе сравнительного филогенетического анализа.
 <div align="left">
 <a href="img/Tree_F.tul.med.jpg" target="_blank">
-  <img src="img/Tree_F.tul.med.jpg" width="300"/>
+  <img src="img/Tree_F.tul.med_thumb.jpg" width="300"/>
 </a>
 </div>
