@@ -1,6 +1,6 @@
 # SNP Genotyper
 
-**Версия 2.8.0 - 13.09.2026**
+**Версия 2.9.0 - 20.09.2026**
 
 Программа для определения генетических линий токсигенных и нетоксигенных штаммов Vibrio cholerae, Francisella tularensis subsp. mediasiatica и Francisella tularensis subsp. holarctica на основе данных полногеномного секвенирования
 
